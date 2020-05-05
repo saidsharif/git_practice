@@ -1,1 +1,2 @@
 vibration terminated
+fet-2 done
