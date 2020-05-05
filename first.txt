@@ -4,4 +4,5 @@ fc branching to way out
 granting branching dee
 unifying of eee
 git push
+git remote push
 
