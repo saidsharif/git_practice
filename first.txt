@@ -1,4 +1,8 @@
 activation granted
 
 fc branching to way out 
+<<<<<<< HEAD
 granting branching dee
+=======
+unifying of eee
+>>>>>>> eee
