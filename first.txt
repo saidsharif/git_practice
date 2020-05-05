@@ -1,2 +1,2 @@
 activation granted
-fet-1 branching is going on
+fet-1 branching is done
